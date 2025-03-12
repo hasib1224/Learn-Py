@@ -1,5 +1,5 @@
 import sys
-print("hello world",sys.version)
+print("hello curly girls!!",sys.version)
 
 name = 1j
 
